@@ -46,7 +46,7 @@
 </div>
    <div align="center">
  
-  <!--[Snake animation]--><div><img src="https://github.com/mecstitch/mecstitch/blob/output/github-contribution-grid-snake.svg"/>
+  <!--[Snake animation]--><div><img src="https://github.com/mecstitch/mecstitch/blob/output/dist/github-contribution-grid-snake.svg"/>
  
  
 </div>
