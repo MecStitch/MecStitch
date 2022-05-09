@@ -45,6 +45,6 @@
    <div>
    <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956265466144366622/956265576026755163/download20220303154007.png"/>
   
-  <!--[Snake animation]--><img height="175" src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
+  <!--[Snake animation]--><img height="150" src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
  </div>
 
