@@ -43,11 +43,9 @@
    <div align="right">
    <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956265466144366622/956265576026755163/download20220303154007.png"/></div>
 
-</div>
-   <div align="center">
+<div align="center">
  
-  <!--[Snake animation]--><div><img src="https://github.com/mecstitch/mecstitch/blob/output/dist/github-contribution-grid-snake.svg"/>
- 
+  <!--[Snake animation]--><div align="center"><img src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
  
 </div>
 
