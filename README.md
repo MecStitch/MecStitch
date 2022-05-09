@@ -39,13 +39,12 @@
   <a href="https://www.linkedin.com/in/eudes-benevides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  <!--Imagem do perfil-->
-   <div align="right">
-   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956265466144366622/956265576026755163/download20220303154007.png"/></div>
 
-<div align="center">
- 
-  <!--[Snake animation]--><div align="center"><img src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
- 
-</div>
+<div>
+ <!--Imagem do perfil-->
+   <div>
+   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956265466144366622/956265576026755163/download20220303154007.png"/>
+  
+  <!--[Snake animation]--><img height="180" src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
+ </div>
 
