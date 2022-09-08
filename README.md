@@ -4,7 +4,7 @@
 
 
 <!--Subtitulo do perfil-->
-<h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/eudes-benevides/"><b>Eudes Benevides</b></a> e estou estudando no <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></h3>
+<h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/eudes-benevides/"><b>Eudes Benevides</b></a> sou ex aluno do <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></h3>
 <div align="center">
   
 ##
