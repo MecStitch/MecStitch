@@ -48,16 +48,4 @@
  
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MecStitch/MecStitch/output/github-contribution-grid-snake.svg" />
-
-<div>
- <!--Imagem do perfil-->
-   <div>
-   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956265466144366622/956265576026755163/download20220303154007.png"/>
-  
- <img height="145" src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
- </div>
 
