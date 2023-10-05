@@ -5,14 +5,21 @@
 </h1>
 
   <!--Habilidades do perfil-->
-<div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mecstitch&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mecstitch&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+ <br>
+ <!--Informações do perfil--> <!--Linguagem de programação que utiliza-->
+  <a href="https://github.com/MecStitch">
+  <img height="" src="https://github-readme-stats-salesp07.vercel.app/api?username=mecstitch&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+  </a>
+  <a href="https://github.com/Arthcode08">
+   <img height="" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mecstitch&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+   <br>
+   <br>
 </div>
 
 <!-- CONTATOS -->
-
+##
+<h3>CONTATOS:</h3>
 <div> 
   <a href="mailto:eudesjw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -27,7 +34,7 @@
   <!-- LINGUAGENS QUE CONHEÇO -->
   
 <div style="display: inline_block">
-  <h3>LINGUAGENS:</h3>
+  <h3>TECNOLOGIAS:</h3>
   
   <img align="center" alt="Símbolo Figma" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />    
  <img align="center" alt="Símbolo HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,23 +45,19 @@
  <img align="center" alt="Símbolo Java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Símbolo MySql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
      
-<!-- CONTATOS -->
-  
-<div>
-  <h3>CONTATOS:</h3>
-  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-  <!-- https://shields.io/ -->
-  <a href="https://www.instagram.com/mecstitch/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eudesjw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eudes-benevides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MecStitch/MecStitch/output/github-contribution-grid-snake.svg" />
 
 <div>
  <!--Imagem do perfil-->
    <div>
    <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956265466144366622/956265576026755163/download20220303154007.png"/>
   
-  <!--[Snake animation]--><img height="145" src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
+ <img height="145" src="https://github.com/MecStitch/MecStitch/blob/output/github-contribution-grid-snake.svg"/>
  </div>
 
