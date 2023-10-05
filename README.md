@@ -4,12 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=900&size=28&pause=1000&color=9D1FF7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)++ao+meu+perfil+!!!;Meu+nome+%C3%A9+Eudes" />
 </h1>
 
+<!-- CONTATOS -->
 
-<!--Subtitulo do perfil-->
-<h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/eudes-benevides/"><b>Eudes Benevides</b></a> sou ex aluno do <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></h3>
-<div align="center">
-  
-##
+<div align="center"> 
+  <a href="mailto:eudesjw@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+  <a href = "mailto:eudesjw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eudes-benevides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 
   <!--Habilidades do perfil-->  
 <a href="https://github.com/MecStitch">
