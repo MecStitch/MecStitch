@@ -4,30 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=900&size=28&pause=1000&color=9D1FF7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)++ao+meu+perfil+!!!;Meu+nome+%C3%A9+Eudes" />
 </h1>
 
+  <!--Habilidades do perfil-->
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mecstitch&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mecstitch&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 <!-- CONTATOS -->
 
-<div align="center"> 
+<div> 
   <a href="mailto:eudesjw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/eudes-benevides" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
-  <a href="https://www.linkedin.com/in/eudes-benevides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
-  <!--Habilidades do perfil-->  
-<a href="https://github.com/MecStitch">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MecStitch&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MecStitch&layout=compact&langs_count=6&theme=chartreuse-dark"/>
-</div>
-          
   ##  
   
   <!-- LINGUAGENS QUE CONHEÇO -->
