@@ -5,10 +5,6 @@
 </h1>
 
 
-<h1 align="center">
-<h1 align="center"><img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="90px"> Olá Seja Bem Vindo(a)!!!</h1>
-
-
 <!--Subtitulo do perfil-->
 <h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/eudes-benevides/"><b>Eudes Benevides</b></a> sou ex aluno do <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></h3>
 <div align="center">
