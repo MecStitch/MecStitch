@@ -1,5 +1,11 @@
 <!--Titulo do perfil-->
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9D1FF7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Seja+bem-vindo(a)++ao+meu+perfil+!!!;Meu+nome+%C3%A9+Eudes" />
+</h1>
+
+
+<h1 align="center">
 <h1 align="center"><img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="90px"> Olá Seja Bem Vindo(a)!!!</h1>
 
 
