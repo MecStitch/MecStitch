@@ -1,7 +1,7 @@
 <!--Titulo do perfil-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&size=25&pause=1000&color=9D1FF7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)++ao+meu+perfil+!!!;Meu+nome+%C3%A9+Eudes" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=900&size=28&pause=1000&color=9D1FF7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)++ao+meu+perfil+!!!;Meu+nome+%C3%A9+Eudes" />
 </h1>
 
 
